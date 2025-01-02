@@ -1,0 +1,1 @@
+docker exec -it db-postgres-1 psql --username=sandbox_user --dbname=sandbox_db
